@@ -154,7 +154,6 @@ require("lazy").setup({
 		dependencies = { "nvim-lua/plenary.nvim" },
 		opts = { signs = false },
 	},
-
 	{ import = "plugins" },
 }, {
 	ui = {
